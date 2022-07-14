@@ -9,7 +9,7 @@ taken by [Mohamed](https://github.com/m-khalaf)
 
 ## Table of Contents
 
-* [Week 1](/Week_1)
+* [Week 1](/week_1)
     * [Day 1](/week_1/day_1/)
 
 1. Item One
